@@ -293,3 +293,16 @@ footer .social-media a {
     margin: 0 10px;
     text-decoration: none;
 }
+.footer-logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.foot-logo img{
+  
+    height: 70px;
+    width: 180px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
